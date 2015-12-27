@@ -1,4 +1,7 @@
-/* Make a modular code (Using the SIZE constant). It makes life easier when you are
+/* 
+ * Author: Pavel Teixeira - 27/12/2015
+ *
+ * Make a modular code (Using the SIZE constant). It makes life easier when you are
  * dealing with projects, meaning that if you want to change the size of the table, you 
  * do not need to change everywhere you use the table in the code, you only need to change 
  * the value of SIZE. I also like to use the standard int variables. This is very usefull 
